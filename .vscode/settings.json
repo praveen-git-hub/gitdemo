@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cee636d1-677d-4468-881c-7bec74c9fc29/resourceGroups/FedRG/providers/Microsoft.Web/sites/app113",
+    "appService.deploySubpath": "."
+}
